@@ -1,0 +1,20 @@
+The codes presented here are use for the following paper "SIMP Phase field topology <optimisation framework to maximise fracture resistance in FGMs". 
+The codes are divided intp 2 parts.
+1. Without phase field to minimise the compliance.
+2. With Phase field method to fracture to maximise fracture resistance. 
+The main codes are in "eso_crack", and the properties of the FGM has to be changed in "crack_propogation". 
+
+The basic Framework for the codes are developed by Prof. Julien Yvonnet (Gustave Effiel Univeristy, Paris)(julien.yvonnet@univ-effiel-fr), 
+and Prof. Qi Chang He (Qi-chang.he@u-pem.fr). 
+
+If you are using this code for academic or research purpose, also check out other codes and please do not forget to cite our papers 
+
+1. "A SIMP-phase field topology optimization framework to maximize quasi-brittle fracture resistance of 2D and 3D composites",
+Theoretical and Applied Fracture Mechanics, Volume 114, August 2021,102919. 
+DOI:   https://doi.org/10.1016/j.tafmec.2021.102919
+
+2. "SIMP Phase-field topology optimisation framework to maximise fracture resistance in FGMs", Composite Structures, 
+6 December 2023, 117750. 
+DOI: https://doi.org/10.1016/j.compstruct.2023.117750
+
+Please report any problems or suggestions to "pavan.kumar@ilsb.tuwien.ac.at" 
